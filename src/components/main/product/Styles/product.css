@@ -1,0 +1,8 @@
+.align-self-center{
+    height: 150px;
+    width: 150px;
+}
+.media{
+    margin: 20px;
+    justify-content: space-between;
+}

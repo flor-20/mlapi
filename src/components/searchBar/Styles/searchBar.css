@@ -1,0 +1,7 @@
+.container{
+    display: flexbox;
+    align-content: center;
+}
+.formSearchBar{
+    margin-right: 400px;
+}
